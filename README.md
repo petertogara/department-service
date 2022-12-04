@@ -1,2 +1,2 @@
 # department-service
-Demostration Of micro services basic structure
+Demostration of microservices basic structure
